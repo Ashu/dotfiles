@@ -39,7 +39,7 @@ brew 'htop'
 # Apps
 cask 'alfred'
 cask 'firefox'
-cask 'github-desktop'
+cask 'github'
 cask 'microsoft-teams'
 cask 'google-chrome'
 cask 'skype'
