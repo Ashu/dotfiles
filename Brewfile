@@ -31,6 +31,9 @@ brew 'zsh-autosuggestions'
 
 # Tools
 brew 'youtube-dl'
+brew 'speedtest-cli'
+brew 'wifi-password'
+brew 'htop'
 
 
 # Apps
