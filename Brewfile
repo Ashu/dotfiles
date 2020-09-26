@@ -68,5 +68,4 @@ cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
-# Remove outdated versions from the cellar.
-brew cleanup
+
