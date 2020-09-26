@@ -34,10 +34,7 @@ brew 'youtube-dl'
 
 
 # Apps
-cask '1password'
-cask '1password-cli'
 cask 'alfred'
-cask 'caffeine'
 cask 'firefox'
 cask 'github-desktop'
 cask 'microsoft-teams'
