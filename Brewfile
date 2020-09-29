@@ -51,6 +51,8 @@ cask 'transmission'
 cask 'vlc'
 cask 'whatsapp'
 cask 'spotify'
+cask 'opera'
+cask 'camo-studio' # Use iPhone as a pro web cam
 
 # Quicklook
 cask 'qlcolorcode'
