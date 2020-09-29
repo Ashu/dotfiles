@@ -28,31 +28,30 @@ brew 'carthage'
 brew 'zsh'
 brew 'zsh-autosuggestions'
 
-
 # Tools
 brew 'youtube-dl'
 brew 'speedtest-cli'
 brew 'wifi-password'
 brew 'htop'
 
-
 # Apps
 cask 'alfred'
-cask 'firefox'
 cask 'github'
 cask 'microsoft-teams'
-cask 'google-chrome'
 cask 'skype'
 cask 'slack'
-cask 'sublime-text'
-cask 'telegram-desktop'
 cask 'the-unarchiver'
 cask 'transmission'
 cask 'vlc'
+cask 'telegram-desktop'
 cask 'whatsapp'
 cask 'spotify'
+cask 'firefox'
 cask 'opera'
+cask 'google-chrome'
 cask 'camo-studio' # Use iPhone as a pro web cam
+cask 'visual-studio-code'
+cask 'sublime-text'
 
 # Quicklook
 cask 'qlcolorcode'
