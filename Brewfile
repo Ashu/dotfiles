@@ -52,6 +52,7 @@ cask 'google-chrome'
 cask 'camo-studio' # Use iPhone as a pro web cam
 cask 'visual-studio-code'
 cask 'sublime-text'
+cask 'sourcetree'
 cask 'mounty' # Used to mounty NTFS drives on Mac
 
 # Quicklook
