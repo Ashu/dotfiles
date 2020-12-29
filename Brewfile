@@ -27,6 +27,7 @@ brew 'cocoapods'
 brew 'carthage' 
 brew 'zsh'
 brew 'zsh-autosuggestions'
+cask 'flutter'
 
 # Tools
 brew 'youtube-dl'
@@ -49,6 +50,7 @@ cask 'spotify'
 cask 'firefox'
 cask 'opera'
 cask 'google-chrome'
+cask 'brave-browser'
 cask 'camo-studio' # Use iPhone as a pro web cam
 cask 'visual-studio-code'
 cask 'sublime-text'
