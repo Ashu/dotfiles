@@ -56,6 +56,7 @@ cask 'visual-studio-code'
 cask 'sublime-text'
 cask 'sourcetree'
 cask 'mounty' # Used to mounty NTFS drives on Mac
+cask 'licecap' # Used to record screen and convert to gif
 
 # Quicklook
 cask 'qlcolorcode'
