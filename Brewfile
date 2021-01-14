@@ -36,8 +36,9 @@ brew 'wifi-password'
 brew 'htop'
 
 # Apps
-cask 'alfred'
+cask 'alfred' #Best replacement for default Spotlight search 
 cask 'github'
+cask 'sourcetree'
 cask 'microsoft-teams'
 cask 'skype'
 cask 'slack'
@@ -47,16 +48,17 @@ cask 'vlc'
 cask 'telegram-desktop'
 cask 'whatsapp'
 cask 'spotify'
+cask 'camo-studio' # Use iPhone as a pro web cam
+cask 'visual-studio-code'
+cask 'sublime-text'
+cask 'mounty' # Used to mounty NTFS drives on Mac
+cask 'licecap' # Used to record screen and convert to gif
+
+# Browsers
 cask 'firefox'
 cask 'opera'
 cask 'google-chrome'
 cask 'brave-browser'
-cask 'camo-studio' # Use iPhone as a pro web cam
-cask 'visual-studio-code'
-cask 'sublime-text'
-cask 'sourcetree'
-cask 'mounty' # Used to mounty NTFS drives on Mac
-cask 'licecap' # Used to record screen and convert to gif
 
 # Quicklook
 cask 'qlcolorcode'
