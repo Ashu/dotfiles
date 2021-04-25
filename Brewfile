@@ -28,6 +28,7 @@ brew 'carthage'
 brew 'zsh'
 brew 'zsh-autosuggestions'
 cask 'flutter'
+cask 'postman'
 
 # Tools
 brew 'youtube-dl'
